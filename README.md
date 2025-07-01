@@ -13,13 +13,13 @@ A simple Python repository demonstrating recursion concepts.
 
    git clone https://github.com/M-web186/Python-recursion.py.git
 
-##Run the example script:
+2. Run the example script:
 bash
 python Recursion.py
 Contents
 Recursion.py - Main script with recursive function examples
 
-##License
+##License:
 MIT License.
 
 maureen
